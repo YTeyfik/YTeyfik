@@ -6,11 +6,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyfik&layout=compact&theme=radical)](https://github.com/YTeyfik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyfik&layout=compact&theme=tokyonight)](https://github.com/YTeyfik/github-readme-stats)
 
 
 
-[![Teyfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyfik&theme=radical)](https://github.com/YTeyfik/github-readme-stats)
+[![Teyfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyfik&theme=onedark)](https://github.com/YTeyfik/github-readme-stats)
 <!--
 **YTeyfik/YTeyfik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
