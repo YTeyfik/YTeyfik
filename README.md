@@ -10,7 +10,7 @@
 
 
 
-[![Teyfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyfik&theme=onedark)](https://github.com/YTeyfik/github-readme-stats)
+[![Teyfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyfik&theme=dark)](https://github.com/YTeyfik/github-readme-stats)
 <!--
 **YTeyfik/YTeyfik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
