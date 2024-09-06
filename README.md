@@ -1,6 +1,6 @@
 ### Hi there, I’m Teyfik 👋
 ## I'm a Computer Engineer, Developer
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/teyfikyalav/)
 
 
