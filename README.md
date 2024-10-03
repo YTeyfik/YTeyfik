@@ -3,14 +3,15 @@
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/teyfikyalav/)
 
-
+<!--
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyfik&layout=compact&theme=tokyonight)](https://github.com/YTeyfik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyfik&layout=compact&theme=tokyonight)](https://github.com/YTeyfi
 
 
 
 [![Teyfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyfik&theme=dark)](https://github.com/YTeyfik/github-readme-stats)
+-->
 <!--
 **YTeyfik/YTeyfik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
